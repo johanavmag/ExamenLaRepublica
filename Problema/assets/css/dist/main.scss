@@ -1,0 +1,51 @@
+.publi-top{
+	background-color: #f2f2f2;
+	padding: .5%;
+	ul{
+		list-style-type: none;
+		margin-left: -11%;
+		margin-top: 2%;
+		li{
+			display: inline;
+			a{
+				color:#8c8c8c;
+				font-family: 'Oswald', sans-serif;
+				font-size:x-small;
+			}
+		}
+	}
+	.list-right{
+		li{
+			color: #8c8c8c;
+			.btn-danger{
+			font-size: x-small;
+			font-family: 'Oswald', sans-serif;
+			border:none;
+			border-radius: .3em;
+			padding: 1%;
+			}
+			.fa{
+				margin: 2%;
+			}
+			.fa-facebook{
+				color: #0088cc;
+			}
+			.fa-twitter{
+				color: #4db8ff;
+			}
+			.fa-google-plus{
+				color: #ff0000;
+			}
+			.fa-envelope{
+				color: #ffcc00;
+			}
+			.fa-rss{
+				color: #ff6600;
+			}
+			.fa-search{
+				margin: 0%;
+				font-size: x-small;
+			}
+		}
+	}
+}
